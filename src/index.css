@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh;
   background: #111;
-  color: white;
+  color: rgba(95, 85, 85, 0.395);
 }
 
 code {
